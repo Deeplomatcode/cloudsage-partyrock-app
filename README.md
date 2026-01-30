@@ -37,7 +37,7 @@ CloudSage is a no-code generative AI app designed to support cloud enthusiasts, 
 
 Launch the app in your browser, no sign-in required:  
 
-👉 **[https://partyrock.aws/u/DeeplomatProject/efCCg8T_D/CloudSage/snapshot/ZXAoL-v-t](https://partyrock.aws/u/DeeplomatProject/efCCg8T_D/CloudSage/snapshot/ZXAoL-v-t](https://partyrock.aws/u/DeeplomatProject/cd7-6uKM7/SmartDay-Optimizer)**
+👉 **[https://partyrock.aws/u/DeeplomatProject/efCCg8T_D/CloudSage/snapshot/ZXAoL-v-t]**
 
 ---
 
