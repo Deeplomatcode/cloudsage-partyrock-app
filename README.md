@@ -7,7 +7,7 @@ This tool helps you with cloud computing project ideas, troubleshooting assistan
 
 CloudSage is a no-code generative AI app designed to support cloud enthusiasts, developers, and learners with personalized insights and guidance across cloud computing topics.
 
-[![Live App](https://img.shields.io/badge/Try%20Now-CloudSage-green?style=for-the-badge)](https://partyrock.aws/u/DeeplomatProject/efCCg8T_D/CloudSage/snapshot/ZXAoL-v-t)
+[![Live App](https://github.com/Deeplomatcode/cloudsage-partyrock-app)
 
 ---
 
